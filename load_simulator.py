@@ -4,7 +4,7 @@ import time
 import requests
 import random
 
-target_url = "https://your-test-site.onrender.com"
+target_url = "https://www.snakaranavi.net/shop.php?sno=18710"
 virtual_multiplier = 100
 visible_requests = 10
 total_requests = visible_requests * virtual_multiplier
